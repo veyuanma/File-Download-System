@@ -1,6 +1,6 @@
-# File Upload System
+# File Download System
 
-This is a server-client file upload system using socket programming in Java.
+This is a server-client file download system using socket programming in Java.
 
 How to start:
 
