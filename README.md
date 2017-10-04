@@ -3,6 +3,7 @@
 This is a server-client file upload system using socket programming in Java.
 
 How to start:
+
 	Setup server:
 	1. go to src/edu/usc/anrg/ee579/diagnostic directory:
 		javac protocol/tcpPacket.java MyServer.java test/TestServer.java
